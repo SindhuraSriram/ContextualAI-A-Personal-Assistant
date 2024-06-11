@@ -1,7 +1,5 @@
 # ContextualAI---A-Personal-Assistant-with-Voice-Recognition-and-Contextual-Understanding
 
-# README: ContextualAI - A Personal Assistant with Voice Recognition and Contextual Understanding
-
 ## Project Overview
 ContextualAI is a web application designed to facilitate secure and interactive interview simulations. It combines state-of-the-art speech-to-text technologies with advanced language models to enable dynamic transcription and context-aware response generation.
 
